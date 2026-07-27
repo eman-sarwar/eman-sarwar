@@ -14,9 +14,6 @@
   <img src="https://img.shields.io/badge/Focus-Computer_Vision-00d9ff?style=for-the-badge&logo=opencv&logoColor=white&labelColor=0099CC" />
 </p>
 
-<a href="https://portfolio-xi-pied-gqp3nva0cx.vercel.app/" target="_blank">
-  <img src="https://custom-icon-badges.demolab.com/badge/-🚀 View Portfolio-6C63FF?style=for-the-badge&logoColor=white&logo=rocket" />
-</a>
 
 </div>
 

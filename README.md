@@ -22,46 +22,7 @@
 
 <br/>
 
----
-
-## `whoami`
-
-```python
-class EmanSarwar:
-    def __init__(self):
-        self.role = "AI / Machine Learning Engineer"
-        self.education = "BSc Artificial Intelligence — Air University"
-        
-        self.focus_areas = [
-            "Artificial Intelligence 🤖",
-            "Machine Learning 🧠",
-            "Deep Learning 🔥",
-            "Computer Vision 👁️",
-            "Natural Language Processing 💬"
-        ]
-
-        self.expertise = {
-            "languages": ["Python", "SQL", "C++"],
-            "frameworks": [
-                "TensorFlow",
-                "Keras",
-                "Flask",
-                "OpenCV"
-            ],
-            "specialties": [
-                "Facial Emotion Recognition",
-                "Deep Learning",
-                "AI Chatbots",
-                "Prompt Engineering",
-                "Intelligent Systems"
-            ]
-        }
-
-    def now(self):
-        return "building intelligent systems that solve real-world problems"
-```
-
----
+--- 
 
 ## 🚀 Featured Projects
 
@@ -233,7 +194,7 @@ mindmap
 | :----------------------------- | :------------------------------------------------------------------ |
 | 🤖 **Artificial Intelligence** | Building intelligent systems and practical AI applications          |
 | 🧠 **Machine Learning**        | Developing and experimenting with ML models for real-world problems |
-| 👁️ **Computer Vision**        | Facial emotion recognition, face detection, and image-based AI      |
+| 👁️ **Computer Vision**         | Facial emotion recognition, face detection, and image-based AI      |
 | 🔥 **Deep Learning**           | Exploring neural networks and deep learning architectures           |
 | 💬 **AI Applications**         | LLM-powered assistants, chatbots, and context-aware systems         |
 | 🔬 **AI Research**             | Exploring computer vision, HRI, and intelligent systems             |
